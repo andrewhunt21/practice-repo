@@ -1,7 +1,7 @@
 {
   "name": "practice-repo",
   "version": "1.0.0",
-  "description": "",
+  "description": "this a a place to practice things i'd like to keep fresh in my brain.",
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {
